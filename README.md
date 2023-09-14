@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-
-<div class="tenor-gif-embed" data-postid="7963714" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/programming-computer-typing-gif-7963714">Programming Computer GIF</a>from <a href="https://tenor.com/search/programming-gifs">Programming GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img aligb="right" alt="Coding" width="400" src="https://tenor.com/view/programming-computer-typing-gif-7963714">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somethingsomething0&label=Profile%20views&color=0e75b6&style=flat" alt="somethingsomething0" /> </p>
 
