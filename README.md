@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/mTPjPA6SSXgTsnZ1Dh" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/scaler-official-funny-code-not-working-mTPjPA6SSXgTsnZ1Dh">via GIPHY</a></p>
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/5IJ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somethingsomething0&label=Profile%20views&color=0e75b6&style=flat" alt="somethingsomething0" /> </p>
 
