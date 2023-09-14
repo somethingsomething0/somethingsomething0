@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dave</h1>
 <h3 align="center">A passionate frontend developer from Philippines</h3>
 
-<img align="right" alt="coding" width="400" src="[https://i.gifer.com/5IJ.gif](https://gifer.com/embed/5IJ)"/>
+<img align="right" alt="coding" width="400" src="https://i.gifer.com/5IJ.gif](https://gifer.com/embed/5IJ"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=somethingsomething0&label=Profile%20views&color=0e75b6&style=flat" alt="somethingsomething0" /> </p>
 
