@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/constdavejs" target="blank"><img src="https://img.shields.io/twitter/follow/constdavejs?logo=twitter&style=for-the-badge" alt="constdavejs" /></a> </p>
 
-- 🌱 I’m currently learning **React Js**
+- 🌱 I’m currently learning **Everything... xd**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
